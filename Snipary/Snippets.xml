@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Snippets>
+  <Name>Snippets</Name>
+  <Tags />
+  <IsCategory>True</IsCategory>
+  <Contents />
+  <SubItem>
+    <Name>Shortcuts</Name>
+    <Tags>
+      <Tag>Shortcut</Tag>
+    </Tags>
+    <IsCategory>False</IsCategory>
+    <Contents>Shortcuts:
+
+Create new Category: Ctrl + Enter
+Create New Subcategory: Shift + Enter
+
+Create new Snippet: Ctrl + N
+Create new sub Snippet: Shift + N
+Change Snippet name: Insert
+Delete Snippet: Del
+
+Save Content: Ctrl + S
+
+Search: Ctrl + F</Contents>
+  </SubItem>
+</Snippets>
